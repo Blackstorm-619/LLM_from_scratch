@@ -1,0 +1,21 @@
+[33mcommit be844644d737ab4ed3949a9535f89aaf8840277e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m
+Merge: b80b1e3 4241bcf
+Author: Blackstorm-619 <annantpathak007@gmail.com>
+Date:   Sun May 10 01:54:37 2026 +0530
+
+    Merge branch 'dev' of https://github.com/Blackstorm-619/LLM_from_scratch into dev
+
+[33mcommit 4241bcf5dd58573069ad3d69ba35e6c357913480[m[33m ([m[1;31morigin/dev[m[33m)[m
+Merge: c60df63 623ddc8
+Author: Annant Pathak <annantpathak007@gmail.com>
+Date:   Fri May 8 23:28:47 2026 +0530
+
+    Merge pull request #1 from Blackstorm-619/arvind/tokenization
+    
+    Arvind/tokenization
+
+[33mcommit 9b0b8d99262811710eb4877c8f2614d36568a4df[m
+Author: Arvind Panda <arvindpanda2007@gmail.com>
+Date:   Fri May 8 06:25:01 2026 +0000
+
+    added the-verdict.txt file
